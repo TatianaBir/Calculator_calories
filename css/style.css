@@ -1,0 +1,28 @@
+.wrapper {
+	max-width: 40%;
+	margin: 0 auto;
+}
+
+.named,
+.kbju {
+	margin: 10px;
+	max-width: 400px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.list-cont {
+	margin-top: 10px;
+	display: flex;
+}
+
+.btn-ok {
+	margin-left: 10px;
+}
+
+label {
+	margin: 10px;
+}
